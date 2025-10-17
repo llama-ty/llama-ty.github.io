@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Llama-Ty"
+title                    : "Roblox Graphics Portfolio"
 title_separator          : "-"
 name                     : &name "Llama-Ty"
 description              : &description "Llama-Ty's portfolio of gfx art"   # Updated description for the site
@@ -24,11 +24,12 @@ repository               : "llama-ty/gfx-portfolio"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "Llama-Ty"
+  name             : #Strings - Your Name
     # pronouns field removed
-  bio              : "I'm Llama Ty, a Roblox graphics designer/artist who makes profile pictures, wallpapers, etc."
+  bio              : #Strings - Short Bio about yourself
   location         : "USA"
   github           : "llama-ty"
+  youtube           : "LlamaTyGamer"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
